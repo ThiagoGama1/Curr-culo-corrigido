@@ -1,0 +1,23 @@
+h1 {
+    color: brown; font-size: 40px; 
+       }
+       
+       body{
+        background-color: bisque;
+       }
+       h2{
+        color: brown;
+       }
+       h3{
+        color: brown;
+       }
+       h4{
+        color:brown;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+       }
+       p{
+        font-style: italic;
+        font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+       }
+       

@@ -1,7 +1,16 @@
 h1 {
-    color: brown; font-size: 40px; 
+
+    position: relative;
+    left: 450px;
+    color: brown; font-size: 70px;
+    align-items: center;
        }
-       
+       img{
+        position: relative;
+        left: 700px;
+        
+       }
+    
        body{
         background-color: bisque;
        }
@@ -20,4 +29,8 @@ h1 {
         font-size: 25px;
         font-family: Georgia, 'Times New Roman', Times, serif;
        }
+       header{
+        background-color:blanchedalmond
+       }
+       ;
        
